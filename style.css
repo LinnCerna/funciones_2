@@ -1,0 +1,24 @@
+body{
+ background: #ee86ba;
+ font-family: cursive;
+ text-align: center;
+}
+form{
+ background: rgb(252, 164, 197);
+ width: 280px;
+ margin: auto;
+ padding: 15px;
+}
+/* Estilo para los botones del menu */
+button{
+  background: #f3aed4;
+  color: rgb(17, 1, 1);
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover{
+  background: #f3aed4;
+}
